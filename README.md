@@ -68,4 +68,4 @@ Ignore DarkMode (JavaScript)
 
 ### Validator Testing
 * HTML - W3C Validator PASSED
-* CSS - jisaw Validator PASSED
+* CSS - jigsaw Validator PASSED
