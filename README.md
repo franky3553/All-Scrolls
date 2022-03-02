@@ -17,7 +17,8 @@ The top priority is to be intuitive and fast as possible, both visually and func
   * Everything is a Bar Menu! 
   * See everything in an instant
   * Navigate intuitively  
-  * <img src="https://user-images.githubusercontent.com/45402163/156281399-d7567547-48ce-41df-be1f-6f270b4891c3.png" width=50% height=50%>
+  * ![imagen](https://user-images.githubusercontent.com/45402163/156281399-d7567547-48ce-41df-be1f-6f270b4891c3.png)
+
 
 * Header.
   * Each page has its header, and each one follows the same pattern
