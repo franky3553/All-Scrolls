@@ -25,7 +25,6 @@ body{
 }
 
 .title{
-    color: grey;
     font-family: 'Calibri';
     font-size: 21px;
     padding: 0px 0px 0px 0px;
@@ -234,22 +233,6 @@ body{
     padding: 15% 0% 20% 10%;
     margin-bottom: 24px;
     text-align-last: auto;
-}
-
-.title{
-    color: grey;
-    font-family: 'Calibri';
-    font-size: 21px;
-    padding: 0px 0px 0px 0px;
-    margin: 3px 3px 3px 9%;
-}
-
-.portaTitle{
-    color: grey;
-    font-family: 'Calibri';
-    font-size: 32px;
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
 }
 
 .voidBox{
