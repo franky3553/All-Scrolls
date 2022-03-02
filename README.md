@@ -34,7 +34,7 @@ The top priority is to be intuitive and fast as possible, both visually and func
   * The Plan subsection is about the strategies followed to pass the course
   * The Ptojects subsection contains an outline of all course projects
   * The goal is to access everything necessary for the documentation of the course quickly
-  * ![imagen](https://user-images.githubusercontent.com/45402163/156276744-c44ffa34-225b-4f3f-88c6-85c69e426673.png)
+  * ![imagen](https://user-images.githubusercontent.com/45402163/156298401-cea9c896-17a5-40e5-acca-c4f9287e9376.png)
 
 
 
