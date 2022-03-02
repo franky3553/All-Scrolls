@@ -24,7 +24,7 @@ The top priority is to be intuitive and fast as possible, both visually and func
   * Each page has its header, and each one follows the same pattern
   * A title and two or three explanatory sentences about the page
   * The goal is to be direct and to the point
-  * ![imagen](https://user-images.githubusercontent.com/45402163/156277463-3478bd04-ce3a-471a-a546-d9f299af5446.png)
+  * ![imagen](https://user-images.githubusercontent.com/45402163/156282396-53b51231-4a05-4255-87ae-392933f1b8de.png)
 
 
 
@@ -34,7 +34,7 @@ The top priority is to be intuitive and fast as possible, both visually and func
   * The Plan subsection is about the strategies followed to pass the course
   * The Ptojects subsection contains an outline of all course projects
   * The goal is to access everything necessary for the documentation of the course quickly
-  * ![imagen](https://user-images.githubusercontent.com/45402163/156277463-3478bd04-ce3a-471a-a546-d9f299af5446.png)
+  * ![imagen](https://user-images.githubusercontent.com/45402163/156276744-c44ffa34-225b-4f3f-88c6-85c69e426673.png)
 
 
 
